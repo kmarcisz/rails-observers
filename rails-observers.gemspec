@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.files         = Dir["LICENSE", "README.md", "lib/**/*"]
   s.require_paths = ["lib"]
 
-  s.required_ruby_version = '>= 2.2.2'
+  s.required_ruby_version = '>= 2.1.10'
 
   s.add_dependency 'activemodel', '>= 4.0'
 
